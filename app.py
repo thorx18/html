@@ -4,7 +4,7 @@ def add(a, b):
 
 # Simple test
 if add(2, 3) == 5:
-    print("Test Passed Bro ✅")
+    print("Test Passed Bro , Well Done ✅")
 else:
-    print("Test Failed Bro ❌")
+    print("Test Failed Bro , Next time ❌")
     exit(1)
